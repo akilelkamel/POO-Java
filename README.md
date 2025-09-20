@@ -18,7 +18,7 @@ Vous y trouverez :
 
 ## 💻 Travaux Pratiques (TPs)
 
-- [TP1:Premiers pas en Java](TPs/TP1.pdf)  
-- [TP2](TPs/TP2.pdf)  
-- [TP3](TPs/TP3.pdf)  
+- [TP1: Premiers pas en Java](TPs/TP01.pdf)  
+- [TP2](TPs/TP02.pdf)  
+- [TP3](TPs/TP03.pdf)  
 *(les autres series de TPs seront ajoutées progressivement)*
