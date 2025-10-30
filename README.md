@@ -14,6 +14,7 @@ Vous y trouverez :
 - [Chapitre 2: Les bases du langage Java](slides/chapter2.pdf)  
 - [Chapitre 3: La Programmation Orientée Objet avec Java](slides/chapter3.pdf)  
 - [Chapitre 4: Des concepts avancés de la programmation orientée objet Java](slides/chapter4.pdf)
+  
 *(les autres chapitres seront ajoutés progressivement)*
 ---
 
@@ -23,4 +24,5 @@ Vous y trouverez :
 - [TP2: Les bases de programmation avec Java](TPs/TP02.pdf)  
 - [TP3: Classes, méthodes, instanciation](TPs/TP03.pdf)
 - [TP4: Constructeurs, modificateurs de visibilité](TPs/TP04.pdf)
+  
 *(les autres series de TPs seront ajoutées progressivement)*
