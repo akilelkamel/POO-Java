@@ -3,12 +3,13 @@
 Ce dépôt contient le matériel pédagogique du cours **Programmation Java**.  
 Vous y trouverez :
 
-- 📑 **Supports de cours**
+- 📝  **Supports de cours**
 - 💻 **Travaux Pratiques (TPs)**  
+- 📝 **Exemples de cours**
 
 ---
 
-## 📑 Supports de cours (Slides)
+## 📑 📝 Supports de cours (Slides)
 
 - [Chapitre 1: Introduction](slides/chapter1.pdf)  
 - [Chapitre 2: Les bases du langage Java](slides/chapter2.pdf)  
@@ -27,3 +28,13 @@ Vous y trouverez :
 - [TP4: Constructeurs, modificateurs de visibilité](TPs/TP04.pdf)
   
 *(les autres series de TPs seront ajoutées progressivement)*
+
+
+## 📝 Exemples de cours
+
+### Chapitre 3:
+
+    - [La méthode `equals()`](ExemplesDeCours/ch3/TestMethodeEquals.java)
+    - [La méthode `toString()`](ExemplesDeCours/ch3/TestMethodeToString.java)
+    - [La méthode `finalize()`](ExemplesDeCours/ch3/TestMethodeFinalize.java)
+
