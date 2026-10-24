@@ -33,7 +33,6 @@ Vous y trouverez :
 ## 📝 Exemples de cours
 
 ### Chapitre 3:
-
     - [La méthode `equals()`](ExemplesDeCours/ch3/TestMethodeEquals.java)
     - [La méthode `toString()`](ExemplesDeCours/ch3/TestMethodeToString.java)
     - [La méthode `finalize()`](ExemplesDeCours/ch3/TestMethodeFinalize.java)
