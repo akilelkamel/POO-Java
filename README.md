@@ -26,6 +26,7 @@ Vous y trouverez :
 - [TP2: Les bases de programmation avec Java](TPs/TP02.pdf)  
 - [TP3: Classes, méthodes, instanciation](TPs/TP03.pdf)
 - [TP4: Constructeurs, modificateurs de visibilité](TPs/TP04.pdf)
+- [TP5: Introduction à l'héritage](TPs/TP05.pdf)
   
 *(les autres series de TPs seront ajoutées progressivement)*
 
